@@ -11,7 +11,6 @@ Identificação animal com **QR Code e NFC** como tecnologias complementares, co
 ## Projetos publicados
 
 - [**Espelhos de placa-mãe**](https://github.com/lucassat91/espelhos-placa-mae-portfolio): gerador paramétrico em Python que cria I/O shields em STL para impressão 3D.
-- [**Study Quests**](https://github.com/lucassat91/study-quests): jogos de estudo gamificados em HTML, CSS e JavaScript (JS Quest e Nodo Quest).
 - [**Salus**](https://github.com/lucassat91/salu.protector): projeto acadêmico de conscientização e prevenção de golpes digitais (fork do repositório original).
 - [**Hackathon Fundamentos · Grupo 2**](https://github.com/lucassat91/hackathon-fundamentos-grupo-2): atividades em Python organizadas por questão.
 - [**Exercícios de listas em Python**](https://github.com/lucassat91/Exerc-cios-de-Listas-em-Python): conjunto de scripts de estudo.
