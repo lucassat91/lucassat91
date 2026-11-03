@@ -1,19 +1,23 @@
-# Olá, sou Lucas
+# Olá, eu sou o Lucas 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas no SENAC RJ. Uso este GitHub para organizar projetos acadêmicos e pessoais, enquanto estudo Python, Java, desenvolvimento web, banco de dados, UML e UX/UI.
+Desenvolvedor e maker: construo projetos de ponta a ponta, unindo **software** e **hardware**. Em busca de oportunidades em **suporte e infraestrutura de TI**.
 
-## Projeto principal
+## Projetos em destaque
 
-### BioTag
-Projeto de identificação animal que apresenta QR Code e NFC como tecnologias complementares. O repositório técnico está privado neste momento; esta seção não representa uma auditoria de código, build ou funcionalidades em produção.
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**BioTag**](https://github.com/lucassat91/biotag-portfolio) | Tags pet com QR Code + NFC, fabricadas em impressão 3D. Site, ERP, backend serverless e 2 apps Android. | Cloudflare Workers, JavaScript, Kotlin |
+| [**Espelhos de placa-mãe**](https://github.com/lucassat91/espelhos-placa-mae-portfolio) | Gerador paramétrico em Python que cria I/O shields em STL para impressão 3D. | Python, shapely, trimesh |
+| [**Study Quests**](https://github.com/lucassat91/study-quests) | Jogos de estudo gamificados (jogue direto no navegador). | HTML, CSS, JavaScript |
+| [**Salus**](https://github.com/lucassat91/salu.protector) | Projeto acadêmico de conscientização e prevenção de golpes digitais. | Fork do projeto original |
 
-## Projetos publicados
+## Tecnologias e áreas
 
-- [Controle de Estoque BioTag](https://github.com/lucassat91/controle-de-estoque-biotag) — interface web relacionada ao BioTag; o escopo funcional ainda precisa ser documentado com precisão.
-- [Hackathon Fundamentos · Grupo 2](https://github.com/lucassat91/hackathon-fundamentos-grupo-2) — atividades em Python organizadas por questão.
-- [Exercícios de listas em Python](https://github.com/lucassat91/Exerc-cios-de-Listas-em-Python) — conjunto de scripts de estudo.
-- [Exercícios de tuplas em Python](https://github.com/lucassat91/Exerc-cios-de-Tuplas-em-Python) — conjunto de scripts de estudo.
+- **Programação:** Python, JavaScript, HTML/CSS, Kotlin (Android)
+- **Infra e redes:** endereçamento de rede e solução de problemas (Cisco Networking Academy), montagem e manutenção de hardware
+- **Design:** CorelDRAW e Figma
+- **Fabricação:** modelagem e impressão 3D (FDM)
 
-## Estudos e interesses
+## Formação
 
-Python · Java · JavaScript/TypeScript · HTML/CSS · SQL e modelagem de dados · UML · UX/UI · design gráfico · hardware.
+Cursando Análise e Desenvolvimento de Sistemas no Senac RJ.
